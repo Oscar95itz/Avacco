@@ -83,7 +83,7 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
-    border: 1px solid #181A1C;
+    
     box-shadow: none;
     font-size:15px;
     text-shadow: none;
@@ -133,6 +133,7 @@ p {
     float: none !important;
     margin: 0 auto !important;
     text-align: center;
+}
 }
 .highlighted-box {
     background:#F4F8F9;
@@ -364,7 +365,7 @@ p {
     background: #FFFFFF;
 }
 .primary-section .triangle {
-    border-top: 40px solid #FECE1A; 
+    border-top: 40px solid #000000; 
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
@@ -381,7 +382,7 @@ p {
     color:#000000;
 }
 .secondary-section {
-    background:#FECE1A;
+    background:#FFF;
 }
 .secondary-section .title {
     border-bottom: 1px solid #181A1C;
@@ -445,7 +446,7 @@ p {
 .project-title {
     margin-top:15px;
     margin-bottom:15px;
-    border-bottom:1px solid #FECE1A;
+    border-bottom:1px solid #29bc5c;
 }
 .project-title h3 {
     float:left;
@@ -504,7 +505,7 @@ p {
 }
 .team .thumbnail .mask {
     opacity: 5%;
-    background: #17b117;
+    background: #0A7064;
 }
 .team .thumbnail .mask h2 {
     margin-top:20%;
