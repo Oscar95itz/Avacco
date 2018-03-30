@@ -48,7 +48,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
     margin: 10px;
-    color: aqua;
+    color:#041F3B;
+    font-family:fantasy;
 }
 p {
     padding: 10px;
@@ -86,6 +87,7 @@ p {
     margin:10px 3px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
+    font-family: monospace;
     
     box-shadow: none;
     font-size:15px;
@@ -393,7 +395,7 @@ p {
     border-bottom: 1px solid #181A1C;
 }
 .secondary-section h1, .secondary-section .title p {
-    color: #181A1C;
+    color: :#041F3B;
 }
 /* Third section use bacground image */
 .third-section {
