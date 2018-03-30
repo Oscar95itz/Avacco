@@ -39,14 +39,16 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: #FECE1A;
+    color: #041F3B;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
+    
 }
 h1 {
     margin: 10px;
+    color: aqua;
 }
 p {
     padding: 10px;
@@ -151,7 +153,7 @@ p {
     margin-bottom:20px;
 }
 .highlighted-box h1, .highlighted-box p {
-    color: #181A1C !important;
+    color: #041F3B !important;
 }
 .circle-border {
     display: inline-block;
@@ -382,7 +384,7 @@ p {
 }
 
 .primary-section h1 {
-    color:#000000;
+    color:#041F3B;
 }
 .secondary-section {
     background:#FFF;
@@ -419,12 +421,19 @@ p {
 .service{
     margin-top:20px;
 }
+
  .service, .service h2 {
     padding-top:15px;
 }
+
 .service p {
     padding:0px 50px;
     height:60px;
+}
+.service h1{
+    color: #041F3B;
+
+    
 }
 .service img {
     width:150px;
@@ -507,18 +516,20 @@ p {
     color:#181A1C;
 }
 .team .thumbnail .mask {
-    opacity: 5%;
-    background: #0A7064;
+    opacity: 100%;
+    background: #212a33;
+;
 }
 .team .thumbnail .mask h2 {
     margin-top:20%;
 }
 .team .thumbnail .mask, .team .thumbnail .mask h3, .team .thumbnail .mask p, .team .thumbnail:hover h3, .team .thumbnail:hover .social a:hover {
-    color:#181A17;
+    color:#ffffff;
 }
 .about-text {
     margin-top:30px;
 }
+
 .about-text p {
     padding:0;
     font-size:16px;
@@ -707,8 +718,12 @@ p {
  .contact {
     background: #FECE1A;
 }
-.contact h1, .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
+.contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
     color: #181A1C;
+}
+
+.contact h1{
+    color: #041F3B;
 }
 .contact textarea, .contact input[type="text"], .contact input[type="email"] {
     padding: 10px;
@@ -807,6 +822,10 @@ p {
     margin:0 auto;
     padding:15px;
     color:#181A1C;
+}
+.contact-info h2{
+    color:#041F3B;
+    
 }
 .black {
     color:#181A1C;
