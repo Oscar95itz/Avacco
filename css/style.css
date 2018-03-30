@@ -51,7 +51,8 @@ h1 {
 p {
     padding: 10px;
     font-weight: 100;
-    color: #fff;
+    color: #181A1C;
+    
 }
 
 .navbar {
@@ -319,6 +320,7 @@ p {
     float: none;
     position:relative;
     margin:5px; auto;
+    
 }
 .social li {
     display:inline-block;
@@ -326,13 +328,14 @@ p {
     font-family:'Porta';
     font-size: 32px;
     padding:0 5px;
+
 }
 .social li a {
     margin:0;
     padding:0;
     width:32px;
     height:32px;
-    color: #FECE1A;
+    color: #2700ff;
 }
 .social li a:hover {
     color:#181A1C;
@@ -732,6 +735,8 @@ p {
 }
 .contact-info p{
      font-weight:normal;
+    font-size:italic;
+   
 }
 .contact-info .icon {
     margin:10px auto;

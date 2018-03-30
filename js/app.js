@@ -377,14 +377,14 @@ $("#send-mail").click(function () {
 
 function initializeMap() {
 
-    var lat = '44.8164056'; //Set your latitude.
-    var lon = '20.46090424'; //Set your longitude.
+    var lat = '22.773579'; //Set your latitude.
+    var lon = '-102.565927'; //Set your longitude.
 
     var centerLon = lon - 0.0105;
 
     var myOptions = {
-        scrollwheel: false,
-        draggable: false,
+        scrollwheel: true,
+        draggable: true,
         disableDefaultUI: true,
         center: new google.maps.LatLng(lat, centerLon),
         zoom: 15,
@@ -400,7 +400,7 @@ function initializeMap() {
     });
 
     var infowindow = new google.maps.InfoWindow({
-        content: "Your content goes here!"
+        content: "Nos Ubicamos Aqui!"
     });
 
     google.maps.event.addListener(marker, 'click', function () {
