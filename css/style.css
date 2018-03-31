@@ -227,20 +227,20 @@ p {
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#FECE1A;
+    background-color:#1CA782;
     color:#181A1C;
 }
 .button-sp:hover, .button-sp:active {
     background-color:#181A1C;
-    color:#FECE1A;
+    color:#1CA782;
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
     background-color:#181A1C;
-    color:#FECE1A;
+    color:#1CA782;
 }
 .button-ps:hover, .button-ps:active {
-    background-color:#FECE1A;
+    background-color:#1CA782;
     color:#181A1C;
 }
 /*
@@ -291,7 +291,7 @@ p {
     z-index:4;
 }
 .thumbnail h3 {
-    color: #FECE1A;
+    color: #1CA782;
     margin-top:10px;
     font-size:20px;
 }
@@ -409,7 +409,7 @@ p {
 }
 .third-section .title {
     border-bottom: 1px solid #A1AAB7;
-    color: #FECE1A;
+    color: #1CA782;
 }
 .sub-section {
     margin-top:30px;
@@ -469,11 +469,11 @@ p {
     width:80%;
 }
 .project-title .close {
-    color: #FECE1A;
+    color: #1CA782;
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
-    color:#FECE1A;
+    color:#1CA782;
 }
 .project-info {
     font-weight:100;
@@ -563,7 +563,7 @@ p {
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #FECE1A;
+    background-color: #1CA782;
 }
 /*
 3.4 Clients
@@ -572,7 +572,7 @@ p {
     border:1px solid white;
 }
 .client-slider img:hover {
-    background-color:#FECE1A;
+    background-color:#1CA782;
 }
 .client-nav {
     list-style:none;
@@ -586,7 +586,7 @@ p {
 .client-nav li a {
     display:inherit;
     padding:5px;
-    background:#FECE1A;
+    background:#1CA782;
     border-radius:3px;
     width:20px;
     height:20px;
@@ -596,14 +596,14 @@ p {
 }
 .testimonial p {
     color:#181A1C;
-    background:#FECE1A;
+    background:#1CA782;
     padding:15px;
     margin:0;
 }
 .testimonial .arrow {
     margin-left:10px;
     width:0;
-    border-top:10px solid #FECE1A;
+    border-top:10px solid #1CA782;
     border-left: 20px outset transparent;
     border-right: 20px outset transparent;
 }
@@ -655,7 +655,7 @@ p {
     background-color:#181A1C;
     text-transform:uppercase;
     text-align: center;
-    color:#FECE1A;
+    color:#1CA782;
     padding:40px 0px;
     font-size: 36px;
     margin-top:0px;
@@ -718,7 +718,7 @@ p {
 3.7 Contact
 ********************************************************************/
  .contact {
-    background: #FECE1A;
+    background: #1CA782;
 }
 .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
     color: #181A1C;
@@ -812,7 +812,7 @@ p {
     font-size:17px;
 }
 .message-btn:hover {
-    background-color:#FECE1A;
+    background-color:#1CA782;
 }
 .contact-info {
     text-align:center;
@@ -845,7 +845,7 @@ p {
 }
 
 .footer a{
-    color:#FECE1A;
+    color:#1CA782;
 }
 
 .footer a:hover, .footer a:focus{
